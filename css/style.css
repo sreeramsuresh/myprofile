@@ -1,0 +1,25 @@
+.mainheader{
+    float: none;
+}
+
+body{
+    background-color: black;
+    color: white;
+}
+
+h1{
+    color: white;
+}
+
+.myimg{
+    width: 300px;
+    border-radius: 50%;
+    float: left;
+    margin-inline: 2%;
+    margin-right: 2%;
+
+}
+
+.test{
+    margin-inline: 10%;
+}
